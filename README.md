@@ -1,10 +1,22 @@
-# PasteProject  Basic Ruby script for autopasting text in windows 
+# PasteProject  
 
-TODO: Write a gem description ## Usage
+Basic Ruby script for autopasting text in windows
+ 
+
+
+TODO: Write a gem description 
+
+## Usage
+
+
 
 TODO: Write usage instructions here
 
+
+
 ## Contributing
+
+
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
