@@ -1,22 +1,6 @@
-# PasteProject
+# PasteProject  Basic Ruby script for autopasting text in windows 
 
-TODO: Write a gem description
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-    gem 'paste_project'
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install paste_project
-
-## Usage
+TODO: Write a gem description ## Usage
 
 TODO: Write usage instructions here
 
